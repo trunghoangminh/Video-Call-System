@@ -1,0 +1,4 @@
+http://code.runnable.com/UnA1eTROpKNmAABE/firebase-chat-example-for-javascript
+https://firechat.firebaseapp.com/docs/#data_structure
+https://github.com/firebase/firechat
+http://thejackalofjavascript.com/getting-started-with-firebase/
